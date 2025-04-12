@@ -1,0 +1,49 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SecureZone Solutions</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header { background: #2e3a59; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; }
+    .products, .services, .contact { background: white; margin: 20px auto; max-width: 800px; border-radius: 8px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    h2 { color: #2e3a59; }
+    ul { list-style-type: none; padding: 0; }
+    li { padding: 5px 0; }
+    .footer { text-align: center; padding: 10px; background: #2e3a59; color: white; font-size: 14px; }
+    .btn { background: #2e3a59; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SecureZone Solutions</h1>
+    <p>Your Trusted Security Partner in Siliguri & Kishanganj</p>
+  </header>  <section class="products">
+    <h2>Our Products</h2>
+    <ul>
+      <li>CCTV Cameras (Analog & IP)</li>
+      <li>Video Door Phones</li>
+      <li>Smart Motion & Door Sensors</li>
+      <li>Wireless Doorbell Cameras</li>
+      <li>DVR/NVR Systems</li>
+    </ul>
+  </section>  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Free Consultation & Site Survey</li>
+      <li>Installation Support via Trained Technicians</li>
+      <li>Annual Maintenance Contracts</li>
+      <li>Custom Security Solutions for Homes & Businesses</li>
+    </ul>
+  </section>  <section class="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Shop Address:</strong> Main Market, Kishanganj, Bihar</p>
+    <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+    <p><strong>Email:</strong> support@securezone.in</p>
+    <a href="tel:+91XXXXXXXXXX" class="btn">Call Now</a>
+  </section>  <div class="footer">
+    &copy; 2025 SecureZone Solutions. All rights reserved.
+  </div>
+</body>
+</html>
